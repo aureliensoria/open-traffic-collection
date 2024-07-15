@@ -25,7 +25,8 @@ Collections of URLs pointing to traffic information portals which contain open d
   * [Weight restrictions](https://aineistot.vayla.fi/painorajoitukset/painorajoitukset_d2.xml) in Datex-II, relies on Alert-C for location referencing.
 * France
   * [Traffic count](https://www.quandl.com/data/INSEE?keyword=traffic)
-  * [Datex-II event data](http://diffusion-numerique.info-routiere.gouv.fr/acces-aux-donnees-evenementielles-datex-2-r13.html), requires registration
+  * [Datex-II live traffic data](https://transport.data.gouv.fr/datasets/etat-de-circulation-en-temps-reel-sur-le-reseau-national-routier-non-concede)
+  * [Datex-II event data](https://transport.data.gouv.fr/datasets/evenements-routiers-sur-le-reseau-routier-national-non-concede)
   * [Paris](https://opendata.paris.fr/explore/dataset/comptages-routiers-permanents/): Road traffic data from permanent counters
 * Germany:
   * [Cologne](http://www.offenedaten-koeln.de/dataset/verkehrskalender-der-stadt-k%C3%B6ln), CC BY 3.0, traffic flow. See this [blog post](https://www.graphhopper.com/blog/2015/04/08/visualize-and-handle-traffic-information-with-graphhopper-in-real-time-for-cologne-germany-koln/)
